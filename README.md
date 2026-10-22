@@ -43,3 +43,6 @@ A 3D Unity combat prototype where the player controls a drone, launches missiles
 
 ## Notes
 This project is a prototype focused on core movement, projectile mechanics, target destruction, and basic enemy AI. Models and effects are placeholders.
+
+## Screenshots
+![Main Gameplay](WhatsApp Image 2026-10-22 at 5.31.48 PM.png)
